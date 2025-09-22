@@ -51,7 +51,7 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/onour" target="_blank">
+  <a href="https://www.linkedin.com/in/onouribrachim" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
