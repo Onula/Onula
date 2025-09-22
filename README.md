@@ -8,9 +8,9 @@
 
 ## 👨‍💻 About Me
 - 🎓 Studying **Computer Science & Technology (Applied Informatics)** at the University of Macedonia  
-- 💡 Passionate about **Backend Development, DevOps, Databases, and Cloud**  
+- 💡 Passionate about **Backend Development, Software Engennering, DevOps, Databases, and Cloud**  
 - 💡 Experience in: **Building REST APIs & backend systems**, **Developing web apps & websites**, **Building AI/ML models**, **Managing servers with Docker, Kubernetes, and NGINX**  
-- 🚀 Currently learning **Spring Boot, .NET, Kubernetes, React, Node.js** — aspiring to grow as a **junior backend developer/engineer**  
+- 🚀 Currently learning **Spring Boot, .NET, Kubernetes, React, Node.js** 
 - 🌍 Open to **collaborations, projects, opportunities & internships** 
 
 ---
