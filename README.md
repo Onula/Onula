@@ -11,7 +11,7 @@
 - 💡 Passionate about **Backend Development, DevOps, Databases, and Cloud**  
 - 💡 Experience in: **Building REST APIs & backend systems**, **Developing web apps & websites**, **Building AI/ML models**, **Managing servers with Docker, Kubernetes, and NGINX**  
 - 🚀 Currently learning **Spring Boot, .NET, Kubernetes, React, Node.js** — aspiring to grow as a **junior backend developer/engineer**  
-- 🌍 Open to **collaborations, projects, opportunities & internships** in software engineering and backend development  
+- 🌍 Open to **collaborations, projects, opportunities & internships** 
 
 ---
 
@@ -55,11 +55,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:onuribrahim00@gmail.com" target="_blank" rel="noopener noreferrer">
     <img alt="Gmail" src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.reddit.com/user/your-username" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.reddit.com/user/Onulaa" target="_blank" rel="noopener noreferrer">
     <img alt="Reddit" src="https://cdn.simpleicons.org/reddit/FF4500" width="40" height="40"/>
   </a>
 </p>
