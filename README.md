@@ -6,16 +6,16 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Studying **Computer Science & Technology (Applied Informatics)** at the University of Macedonia  
-- 💡 Passionate about **Backend Development, Software Engennering, DevOps, Databases, and Cloud**  
-- 💡 Experience in: **Building REST APIs & backend systems**, **Developing web apps & websites**, **Building AI/ML models**, **Managing servers with Docker, Kubernetes, and NGINX**  
-- 🚀 Currently learning **Spring Boot, .NET, Kubernetes, React, Node.js** 
-- 🌍 Open to **collaborations, projects, opportunities & internships** 
+##  About Me
+-  Studying **Computer Science & Technology (Applied Informatics)** at the University of Macedonia  
+-  Passionate about **Backend Development, Software Engennering, DevOps, Databases, and Cloud**  
+-  Experience in: **Building REST APIs & backend systems**, **Developing web apps & websites**, **Building AI/ML models**, **Managing servers with Docker, Kubernetes, and NGINX**  
+-  Currently learning **Spring Boot, .NET, Kubernetes, React, Node.js** 
+-  Open to **collaborations, projects, opportunities & internships** 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 <p align="center">
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
@@ -60,6 +60,6 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.reddit.com/user/Onulaa" target="_blank" rel="noopener noreferrer">
-    <img alt="Reddit" src="https://cdn.simpleicons.org/reddit/FF4500" width="40" height="40"/>
+    Reddit
   </a>
 </p>
