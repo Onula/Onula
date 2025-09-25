@@ -56,7 +56,7 @@
   &nbsp;•&nbsp;
  
   <a href="https://www.linkedin.com/in/onouribrachim" target="_blank">
-    linkedin
+    Linkedin
   </a>
   &nbsp;•&nbsp;
   
