@@ -50,15 +50,16 @@
 ## 🤝 Connect
 
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/onouribrachim" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;
   <a href="mailto:onuribrahim00@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Gmail" src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40"/>
+    onuribrahim00@gmail.com
   </a>
-  &nbsp;&nbsp;
+  &nbsp;•&nbsp;
+ 
+  <a href="https://www.linkedin.com/in/onouribrachim" target="_blank">
+    linkedin
+  </a>
+  &nbsp;•&nbsp;
+  
   <a href="https://www.reddit.com/user/Onulaa" target="_blank" rel="noopener noreferrer">
     Reddit
   </a>
