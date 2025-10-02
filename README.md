@@ -59,4 +59,7 @@
     Linkedin
   </a>
   &nbsp;•&nbsp;
+  <a href="https://www.reddit.com/user/Onulaa/" target="_blank">
+    Reddit
+  </a>
 </p>
