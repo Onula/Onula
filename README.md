@@ -1,16 +1,15 @@
 <!-- Minimal Professional Banner -->
 <p align="center">
   <b>Hi 👋, I'm Onour</b><br>
-  <samp>Computer Science Student · Backend Developer/Software Engineering Enthusiast</samp>
+  <samp>Software Developer</samp>
 </p>
 
 ---
 
 ##  About Me
 -  Studying **Computer Science & Technology (Applied Informatics)** at the University of Macedonia  
--  Passionate about **Backend Development, Software Engennering, DevOps, Databases, and Cloud**  
--  Experience in: **Building REST APIs & backend systems**, **Developing web apps & websites**, **Building AI/ML models**, **Managing servers with Docker, Kubernetes, and NGINX**  
--  Currently learning **Spring Boot, .NET, Kubernetes, React, Node.js** 
+-  Passionate about **Backend Development, Software Engennering**  
+-  Experience in: **Building REST APIs & backend systems**, **Developing web apps & websites**, **Building AI/ML models**  
 -  Open to **collaborations, projects, opportunities & internships** 
 
 ---
